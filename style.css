@@ -50,6 +50,13 @@ header {
 .promo-banner-image{
   border-radius: 20px;
 }
+.story{
+  margin: 20px;
+  padding: 20px;
+}
+.content{
+  line-height: 3;
+}
 .contact-container{
   margin: 20px;
   padding: 20px;
